@@ -11,6 +11,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### 🔗 Link do Dashboard
 
-[Challenge_BI_Case-Logística] (https://app.powerbi.com/view?r=eyJrIjoiM2M0ODA1ZmQtNWI2Yi00MTQ1LTgyNDEtNDIyMWUyNjMxMTY4IiwidCI6Ijc1NTBkNzQ2LTVmYjEtNGY1ZS04MzBiLWRlMzlkOGE5YTNmNyJ9)
+[Challenge_BI_Case-Logística](https://app.powerbi.com/view?r=eyJrIjoiM2M0ODA1ZmQtNWI2Yi00MTQ1LTgyNDEtNDIyMWUyNjMxMTY4IiwidCI6Ijc1NTBkNzQ2LTVmYjEtNGY1ZS04MzBiLWRlMzlkOGE5YTNmNyJ9)
 
 ### 📸 Imagens do Dashboard
